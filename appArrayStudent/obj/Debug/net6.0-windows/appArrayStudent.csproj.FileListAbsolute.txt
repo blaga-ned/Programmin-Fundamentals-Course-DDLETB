@@ -1,0 +1,17 @@
+C:\Users\RM281learner10\source\repos\appArrayStudent\bin\Debug\net6.0-windows\appArrayStudent.exe
+C:\Users\RM281learner10\source\repos\appArrayStudent\bin\Debug\net6.0-windows\appArrayStudent.deps.json
+C:\Users\RM281learner10\source\repos\appArrayStudent\bin\Debug\net6.0-windows\appArrayStudent.runtimeconfig.json
+C:\Users\RM281learner10\source\repos\appArrayStudent\bin\Debug\net6.0-windows\appArrayStudent.dll
+C:\Users\RM281learner10\source\repos\appArrayStudent\bin\Debug\net6.0-windows\appArrayStudent.pdb
+C:\Users\RM281learner10\source\repos\appArrayStudent\obj\Debug\net6.0-windows\appArrayStudent.csproj.AssemblyReference.cache
+C:\Users\RM281learner10\source\repos\appArrayStudent\obj\Debug\net6.0-windows\appArrayStudent.frmMain.resources
+C:\Users\RM281learner10\source\repos\appArrayStudent\obj\Debug\net6.0-windows\appArrayStudent.csproj.GenerateResource.cache
+C:\Users\RM281learner10\source\repos\appArrayStudent\obj\Debug\net6.0-windows\appArrayStudent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RM281learner10\source\repos\appArrayStudent\obj\Debug\net6.0-windows\appArrayStudent.AssemblyInfoInputs.cache
+C:\Users\RM281learner10\source\repos\appArrayStudent\obj\Debug\net6.0-windows\appArrayStudent.AssemblyInfo.cs
+C:\Users\RM281learner10\source\repos\appArrayStudent\obj\Debug\net6.0-windows\appArrayStudent.csproj.CoreCompileInputs.cache
+C:\Users\RM281learner10\source\repos\appArrayStudent\obj\Debug\net6.0-windows\appArrayStudent.dll
+C:\Users\RM281learner10\source\repos\appArrayStudent\obj\Debug\net6.0-windows\refint\appArrayStudent.dll
+C:\Users\RM281learner10\source\repos\appArrayStudent\obj\Debug\net6.0-windows\appArrayStudent.pdb
+C:\Users\RM281learner10\source\repos\appArrayStudent\obj\Debug\net6.0-windows\appArrayStudent.genruntimeconfig.cache
+C:\Users\RM281learner10\source\repos\appArrayStudent\obj\Debug\net6.0-windows\ref\appArrayStudent.dll
