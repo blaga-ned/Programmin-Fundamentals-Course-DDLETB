@@ -1,0 +1,17 @@
+C:\Users\RM281learner10\source\repos\appBooleanFlags\bin\Debug\net6.0-windows\appBooleanFlags.exe
+C:\Users\RM281learner10\source\repos\appBooleanFlags\bin\Debug\net6.0-windows\appBooleanFlags.deps.json
+C:\Users\RM281learner10\source\repos\appBooleanFlags\bin\Debug\net6.0-windows\appBooleanFlags.runtimeconfig.json
+C:\Users\RM281learner10\source\repos\appBooleanFlags\bin\Debug\net6.0-windows\appBooleanFlags.dll
+C:\Users\RM281learner10\source\repos\appBooleanFlags\bin\Debug\net6.0-windows\appBooleanFlags.pdb
+C:\Users\RM281learner10\source\repos\appBooleanFlags\obj\Debug\net6.0-windows\appBooleanFlags.csproj.AssemblyReference.cache
+C:\Users\RM281learner10\source\repos\appBooleanFlags\obj\Debug\net6.0-windows\appBooleanFlags.formMain.resources
+C:\Users\RM281learner10\source\repos\appBooleanFlags\obj\Debug\net6.0-windows\appBooleanFlags.csproj.GenerateResource.cache
+C:\Users\RM281learner10\source\repos\appBooleanFlags\obj\Debug\net6.0-windows\appBooleanFlags.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RM281learner10\source\repos\appBooleanFlags\obj\Debug\net6.0-windows\appBooleanFlags.AssemblyInfoInputs.cache
+C:\Users\RM281learner10\source\repos\appBooleanFlags\obj\Debug\net6.0-windows\appBooleanFlags.AssemblyInfo.cs
+C:\Users\RM281learner10\source\repos\appBooleanFlags\obj\Debug\net6.0-windows\appBooleanFlags.csproj.CoreCompileInputs.cache
+C:\Users\RM281learner10\source\repos\appBooleanFlags\obj\Debug\net6.0-windows\appBooleanFlags.dll
+C:\Users\RM281learner10\source\repos\appBooleanFlags\obj\Debug\net6.0-windows\refint\appBooleanFlags.dll
+C:\Users\RM281learner10\source\repos\appBooleanFlags\obj\Debug\net6.0-windows\appBooleanFlags.pdb
+C:\Users\RM281learner10\source\repos\appBooleanFlags\obj\Debug\net6.0-windows\appBooleanFlags.genruntimeconfig.cache
+C:\Users\RM281learner10\source\repos\appBooleanFlags\obj\Debug\net6.0-windows\ref\appBooleanFlags.dll
