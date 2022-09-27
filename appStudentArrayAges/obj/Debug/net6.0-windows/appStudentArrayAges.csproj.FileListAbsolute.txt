@@ -1,0 +1,17 @@
+C:\Users\RM281learner10\source\repos\appStudentArrayAges\obj\Debug\net6.0-windows\appStudentArrayAges.csproj.AssemblyReference.cache
+C:\Users\RM281learner10\source\repos\appStudentArrayAges\obj\Debug\net6.0-windows\appStudentArrayAges.csproj.GenerateResource.cache
+C:\Users\RM281learner10\source\repos\appStudentArrayAges\obj\Debug\net6.0-windows\appStudentArrayAges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RM281learner10\source\repos\appStudentArrayAges\obj\Debug\net6.0-windows\appStudentArrayAges.AssemblyInfoInputs.cache
+C:\Users\RM281learner10\source\repos\appStudentArrayAges\obj\Debug\net6.0-windows\appStudentArrayAges.AssemblyInfo.cs
+C:\Users\RM281learner10\source\repos\appStudentArrayAges\obj\Debug\net6.0-windows\appStudentArrayAges.csproj.CoreCompileInputs.cache
+C:\Users\RM281learner10\source\repos\appStudentArrayAges\bin\Debug\net6.0-windows\appStudentArrayAges.exe
+C:\Users\RM281learner10\source\repos\appStudentArrayAges\bin\Debug\net6.0-windows\appStudentArrayAges.deps.json
+C:\Users\RM281learner10\source\repos\appStudentArrayAges\bin\Debug\net6.0-windows\appStudentArrayAges.runtimeconfig.json
+C:\Users\RM281learner10\source\repos\appStudentArrayAges\bin\Debug\net6.0-windows\appStudentArrayAges.dll
+C:\Users\RM281learner10\source\repos\appStudentArrayAges\bin\Debug\net6.0-windows\appStudentArrayAges.pdb
+C:\Users\RM281learner10\source\repos\appStudentArrayAges\obj\Debug\net6.0-windows\appStudentArrayAges.frmMain.resources
+C:\Users\RM281learner10\source\repos\appStudentArrayAges\obj\Debug\net6.0-windows\appStudentArrayAges.dll
+C:\Users\RM281learner10\source\repos\appStudentArrayAges\obj\Debug\net6.0-windows\refint\appStudentArrayAges.dll
+C:\Users\RM281learner10\source\repos\appStudentArrayAges\obj\Debug\net6.0-windows\appStudentArrayAges.pdb
+C:\Users\RM281learner10\source\repos\appStudentArrayAges\obj\Debug\net6.0-windows\appStudentArrayAges.genruntimeconfig.cache
+C:\Users\RM281learner10\source\repos\appStudentArrayAges\obj\Debug\net6.0-windows\ref\appStudentArrayAges.dll
