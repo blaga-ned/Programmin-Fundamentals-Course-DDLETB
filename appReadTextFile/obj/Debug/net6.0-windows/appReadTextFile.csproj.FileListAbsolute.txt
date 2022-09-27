@@ -1,0 +1,17 @@
+C:\Users\RM281learner10\source\repos\appReadTextFile\bin\Debug\net6.0-windows\appReadTextFile.exe
+C:\Users\RM281learner10\source\repos\appReadTextFile\bin\Debug\net6.0-windows\appReadTextFile.deps.json
+C:\Users\RM281learner10\source\repos\appReadTextFile\bin\Debug\net6.0-windows\appReadTextFile.runtimeconfig.json
+C:\Users\RM281learner10\source\repos\appReadTextFile\bin\Debug\net6.0-windows\appReadTextFile.dll
+C:\Users\RM281learner10\source\repos\appReadTextFile\bin\Debug\net6.0-windows\appReadTextFile.pdb
+C:\Users\RM281learner10\source\repos\appReadTextFile\obj\Debug\net6.0-windows\appReadTextFile.csproj.AssemblyReference.cache
+C:\Users\RM281learner10\source\repos\appReadTextFile\obj\Debug\net6.0-windows\appReadTextFile.frmMain.resources
+C:\Users\RM281learner10\source\repos\appReadTextFile\obj\Debug\net6.0-windows\appReadTextFile.csproj.GenerateResource.cache
+C:\Users\RM281learner10\source\repos\appReadTextFile\obj\Debug\net6.0-windows\appReadTextFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RM281learner10\source\repos\appReadTextFile\obj\Debug\net6.0-windows\appReadTextFile.AssemblyInfoInputs.cache
+C:\Users\RM281learner10\source\repos\appReadTextFile\obj\Debug\net6.0-windows\appReadTextFile.AssemblyInfo.cs
+C:\Users\RM281learner10\source\repos\appReadTextFile\obj\Debug\net6.0-windows\appReadTextFile.csproj.CoreCompileInputs.cache
+C:\Users\RM281learner10\source\repos\appReadTextFile\obj\Debug\net6.0-windows\appReadTextFile.dll
+C:\Users\RM281learner10\source\repos\appReadTextFile\obj\Debug\net6.0-windows\refint\appReadTextFile.dll
+C:\Users\RM281learner10\source\repos\appReadTextFile\obj\Debug\net6.0-windows\appReadTextFile.pdb
+C:\Users\RM281learner10\source\repos\appReadTextFile\obj\Debug\net6.0-windows\appReadTextFile.genruntimeconfig.cache
+C:\Users\RM281learner10\source\repos\appReadTextFile\obj\Debug\net6.0-windows\ref\appReadTextFile.dll
