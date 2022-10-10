@@ -1,0 +1,15 @@
+C:\Users\RM281learner10\source\repos\appClassOne\bin\Debug\net6.0\appClassOne.exe
+C:\Users\RM281learner10\source\repos\appClassOne\bin\Debug\net6.0\appClassOne.deps.json
+C:\Users\RM281learner10\source\repos\appClassOne\bin\Debug\net6.0\appClassOne.runtimeconfig.json
+C:\Users\RM281learner10\source\repos\appClassOne\bin\Debug\net6.0\appClassOne.dll
+C:\Users\RM281learner10\source\repos\appClassOne\bin\Debug\net6.0\appClassOne.pdb
+C:\Users\RM281learner10\source\repos\appClassOne\obj\Debug\net6.0\appClassOne.csproj.AssemblyReference.cache
+C:\Users\RM281learner10\source\repos\appClassOne\obj\Debug\net6.0\appClassOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RM281learner10\source\repos\appClassOne\obj\Debug\net6.0\appClassOne.AssemblyInfoInputs.cache
+C:\Users\RM281learner10\source\repos\appClassOne\obj\Debug\net6.0\appClassOne.AssemblyInfo.cs
+C:\Users\RM281learner10\source\repos\appClassOne\obj\Debug\net6.0\appClassOne.csproj.CoreCompileInputs.cache
+C:\Users\RM281learner10\source\repos\appClassOne\obj\Debug\net6.0\appClassOne.dll
+C:\Users\RM281learner10\source\repos\appClassOne\obj\Debug\net6.0\refint\appClassOne.dll
+C:\Users\RM281learner10\source\repos\appClassOne\obj\Debug\net6.0\appClassOne.pdb
+C:\Users\RM281learner10\source\repos\appClassOne\obj\Debug\net6.0\appClassOne.genruntimeconfig.cache
+C:\Users\RM281learner10\source\repos\appClassOne\obj\Debug\net6.0\ref\appClassOne.dll
