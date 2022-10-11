@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\appStudentHome\bin\Debug\net6.0\appStudentHome.exe
+C:\Users\Admin\source\repos\appStudentHome\bin\Debug\net6.0\appStudentHome.deps.json
+C:\Users\Admin\source\repos\appStudentHome\bin\Debug\net6.0\appStudentHome.runtimeconfig.json
+C:\Users\Admin\source\repos\appStudentHome\bin\Debug\net6.0\appStudentHome.dll
+C:\Users\Admin\source\repos\appStudentHome\bin\Debug\net6.0\appStudentHome.pdb
+C:\Users\Admin\source\repos\appStudentHome\obj\Debug\net6.0\appStudentHome.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\appStudentHome\obj\Debug\net6.0\appStudentHome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\appStudentHome\obj\Debug\net6.0\appStudentHome.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\appStudentHome\obj\Debug\net6.0\appStudentHome.AssemblyInfo.cs
+C:\Users\Admin\source\repos\appStudentHome\obj\Debug\net6.0\appStudentHome.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\appStudentHome\obj\Debug\net6.0\appStudentHome.dll
+C:\Users\Admin\source\repos\appStudentHome\obj\Debug\net6.0\refint\appStudentHome.dll
+C:\Users\Admin\source\repos\appStudentHome\obj\Debug\net6.0\appStudentHome.pdb
+C:\Users\Admin\source\repos\appStudentHome\obj\Debug\net6.0\appStudentHome.genruntimeconfig.cache
+C:\Users\Admin\source\repos\appStudentHome\obj\Debug\net6.0\ref\appStudentHome.dll
