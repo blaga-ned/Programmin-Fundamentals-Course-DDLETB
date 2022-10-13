@@ -4,10 +4,12 @@ namespace appReadCSVFile
     {
         const int NUMBEROFSTUDENTS = 12;
         Student[] arrStudents = new Student[NUMBEROFSTUDENTS];
+        
                 
         public frmMain()
         {
             InitializeComponent();
+            ReadAndDisplayStudentData();
         }
 
         private void btnRead_Click(object sender, EventArgs e)
