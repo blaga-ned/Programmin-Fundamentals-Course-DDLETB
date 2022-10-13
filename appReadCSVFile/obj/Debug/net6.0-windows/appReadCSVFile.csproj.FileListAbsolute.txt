@@ -1,0 +1,17 @@
+C:\Users\RM281learner10\source\repos\appReadCSVFile\bin\Debug\net6.0-windows\appReadCSVFile.exe
+C:\Users\RM281learner10\source\repos\appReadCSVFile\bin\Debug\net6.0-windows\appReadCSVFile.deps.json
+C:\Users\RM281learner10\source\repos\appReadCSVFile\bin\Debug\net6.0-windows\appReadCSVFile.runtimeconfig.json
+C:\Users\RM281learner10\source\repos\appReadCSVFile\bin\Debug\net6.0-windows\appReadCSVFile.dll
+C:\Users\RM281learner10\source\repos\appReadCSVFile\bin\Debug\net6.0-windows\appReadCSVFile.pdb
+C:\Users\RM281learner10\source\repos\appReadCSVFile\obj\Debug\net6.0-windows\appReadCSVFile.csproj.AssemblyReference.cache
+C:\Users\RM281learner10\source\repos\appReadCSVFile\obj\Debug\net6.0-windows\appReadCSVFile.frmMain.resources
+C:\Users\RM281learner10\source\repos\appReadCSVFile\obj\Debug\net6.0-windows\appReadCSVFile.csproj.GenerateResource.cache
+C:\Users\RM281learner10\source\repos\appReadCSVFile\obj\Debug\net6.0-windows\appReadCSVFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RM281learner10\source\repos\appReadCSVFile\obj\Debug\net6.0-windows\appReadCSVFile.AssemblyInfoInputs.cache
+C:\Users\RM281learner10\source\repos\appReadCSVFile\obj\Debug\net6.0-windows\appReadCSVFile.AssemblyInfo.cs
+C:\Users\RM281learner10\source\repos\appReadCSVFile\obj\Debug\net6.0-windows\appReadCSVFile.csproj.CoreCompileInputs.cache
+C:\Users\RM281learner10\source\repos\appReadCSVFile\obj\Debug\net6.0-windows\appReadCSVFile.dll
+C:\Users\RM281learner10\source\repos\appReadCSVFile\obj\Debug\net6.0-windows\refint\appReadCSVFile.dll
+C:\Users\RM281learner10\source\repos\appReadCSVFile\obj\Debug\net6.0-windows\appReadCSVFile.pdb
+C:\Users\RM281learner10\source\repos\appReadCSVFile\obj\Debug\net6.0-windows\appReadCSVFile.genruntimeconfig.cache
+C:\Users\RM281learner10\source\repos\appReadCSVFile\obj\Debug\net6.0-windows\ref\appReadCSVFile.dll
