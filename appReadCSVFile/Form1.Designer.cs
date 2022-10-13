@@ -42,6 +42,9 @@
             this.lblFullDetails = new System.Windows.Forms.Label();
             this.lblNumberOfStudentsDisplay = new System.Windows.Forms.Label();
             this.btnSort = new System.Windows.Forms.Button();
+            this.txtIntroduction = new System.Windows.Forms.TextBox();
+            this.lblIntroduction = new System.Windows.Forms.Label();
+            this.btnDisplayIntroduction = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnRead
@@ -173,11 +176,43 @@
             this.btnSort.UseVisualStyleBackColor = true;
             this.btnSort.Click += new System.EventHandler(this.btnSort_Click);
             // 
+            // txtIntroduction
+            // 
+            this.txtIntroduction.Location = new System.Drawing.Point(25, 27);
+            this.txtIntroduction.Multiline = true;
+            this.txtIntroduction.Name = "txtIntroduction";
+            this.txtIntroduction.Size = new System.Drawing.Size(178, 411);
+            this.txtIntroduction.TabIndex = 17;
+            this.txtIntroduction.TextChanged += new System.EventHandler(this.txtIntroduction_TextChanged);
+            // 
+            // lblIntroduction
+            // 
+            this.lblIntroduction.AutoSize = true;
+            this.lblIntroduction.Location = new System.Drawing.Point(25, 9);
+            this.lblIntroduction.Name = "lblIntroduction";
+            this.lblIntroduction.Size = new System.Drawing.Size(105, 15);
+            this.lblIntroduction.TabIndex = 18;
+            this.lblIntroduction.Text = "Make Introduction";
+            this.lblIntroduction.Click += new System.EventHandler(this.lblIntroduction_Click);
+            // 
+            // btnDisplayIntroduction
+            // 
+            this.btnDisplayIntroduction.Location = new System.Drawing.Point(209, 396);
+            this.btnDisplayIntroduction.Name = "btnDisplayIntroduction";
+            this.btnDisplayIntroduction.Size = new System.Drawing.Size(107, 42);
+            this.btnDisplayIntroduction.TabIndex = 19;
+            this.btnDisplayIntroduction.Text = "Display";
+            this.btnDisplayIntroduction.UseVisualStyleBackColor = true;
+            this.btnDisplayIntroduction.Click += new System.EventHandler(this.btnDisplayIntroduction_Click);
+            // 
             // frmMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btnDisplayIntroduction);
+            this.Controls.Add(this.lblIntroduction);
+            this.Controls.Add(this.txtIntroduction);
             this.Controls.Add(this.btnSort);
             this.Controls.Add(this.lblNumberOfStudentsDisplay);
             this.Controls.Add(this.lblFullDetails);
@@ -215,5 +250,8 @@
         private Label lblFullDetails;
         private Label lblNumberOfStudentsDisplay;
         private Button btnSort;
+        private TextBox txtIntroduction;
+        private Label lblIntroduction;
+        private Button btnDisplayIntroduction;
     }
 }
