@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "appSimpleControls", "appSimpleControls.csproj", "{111BCD2B-B86B-49D5-94C8-75C5508DCF96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{111BCD2B-B86B-49D5-94C8-75C5508DCF96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{111BCD2B-B86B-49D5-94C8-75C5508DCF96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{111BCD2B-B86B-49D5-94C8-75C5508DCF96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{111BCD2B-B86B-49D5-94C8-75C5508DCF96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F70FBDE-0252-4203-AF60-403F2E347D5E}
+	EndGlobalSection
+EndGlobal
